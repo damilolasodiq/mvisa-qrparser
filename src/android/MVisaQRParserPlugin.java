@@ -1,7 +1,6 @@
 package com.ng.fidelitybank.mvisa.qrparser;
 
 import android.util.Log;
-import com.google.gson.Gson;
 
 import org.apache.cordova.*;
 import org.json.JSONArray;
