@@ -1,0 +1,10 @@
+{
+  "name": "cordova-mvisa-qrparser",
+  "version": "1.0.0",
+  "description": "mVisa QRCode parser for cordova apps",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sodiq Fagbola",
+  "license": "ISC"
+}
