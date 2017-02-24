@@ -1,0 +1,25 @@
+{
+  "name": "cordova-mvisa-qrparser",
+  "version": "1.0.0",
+  "description": "Cordova Entrust Plugin",
+  "cordova": {
+    "id": "cordova-mvisa-qrparser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://realdammy@bitbucket.org/realdammy/mvisa-qrparser.git"
+  },
+  "keywords": [
+    "mvisa",
+    "visa",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Sodiq Fagbola",
+  "license": "Apache 2.0",
+  "homepage": "https://bitbucket.org/realdammy/mvisa-qrparser#readme"
+}
