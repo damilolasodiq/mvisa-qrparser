@@ -11,6 +11,7 @@
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
+    <repo>git+https://realdammy@bitbucket.org/realdammy/mvisa-qrparser.git</repo>
     <js-module src="www/mvisa-qrparser.js" name="mvisa-qrparser">
         <clobbers target="window.MVisaQRParser" />
     </js-module>
@@ -21,7 +22,7 @@
                 <param name="android-package" value="com.ng.fidelitybank.mvisa.qrparser.MVisaQRParserPlugin"/>
             </feature>
         </config-file>
-        <source-file src="src/android/MVisaQRParserPlugin.java" target-dir="com/ng/fidelitybank/mvisa/qrparser/" />
+        <source-file src="src/android/MVisaQRParserPlugin.java" target-dir="src/com/ng/fidelitybank/mvisa/qrparser/" />
         <source-file src="src/android/libs/QrCodeParser-1.1.1.jar" target-dir="libs" />
     </platform>
 </plugin>
