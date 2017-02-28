@@ -1,7 +1,7 @@
 {
   "name": "cordova-mvisa-qrparser",
   "version": "1.0.0",
-  "description": "Cordova Entrust Plugin",
+  "description": "Cordova mVisa Plugin",
   "cordova": {
     "id": "cordova-mvisa-qrparser",
     "platforms": [
