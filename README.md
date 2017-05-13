@@ -6,7 +6,7 @@ Add the mVisa QRParse to your cordova project
 
 This requires cordova 5.0+
 
-cordova plugin add https://bitbucket.org/realdammy/mvisa-qrparser.git
+cordova plugin add https://realdammy@bitbucket.org/realdammy/mvisa-qrparser.git
 
 ### Contribution guidelines ###
 
