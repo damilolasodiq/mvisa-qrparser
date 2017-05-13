@@ -41,7 +41,7 @@ public class MVisaQRParserPlugin extends CordovaPlugin {
                 if (qrCodeParserError != null && qrCodeParserError.length() > 0) {
                     callbackContext.error(qrCodeParserError.toString());
                 } else {
-                    callbackContext.success(qrCodeParserResponse.getJsonObject("qrCodeData"));
+                    callbackContext.success(qrCodeParserResponse.getJSONObject("qrCodeData"));
                 }
             }
         } catch (Exception e) {
