@@ -23,6 +23,6 @@
             </feature>
         </config-file>
         <source-file src="src/android/MVisaQRParserPlugin.java" target-dir="src/com/ng/fidelitybank/mvisa/qrparser/" />
-        <source-file src="src/android/libs/MVisaQRParser-1.1.3" target-dir="libs" />
+        <source-file src="src/android/libs/MVisaQRParser-1.1.3.jar" target-dir="libs" />
     </platform>
 </plugin>
