@@ -1,6 +1,6 @@
 {
   "name": "cordova-mvisa-qrparser",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Cordova mVisa Plugin",
   "cordova": {
     "id": "cordova-mvisa-qrparser",

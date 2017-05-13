@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="cordova-mvisa-qrparser"
-    version="1.0.0">
+    version="2.0.0">
     <name>Cordova mVisa QRParser plugin</name>
     <description>QRCode parser for mVisa application</description>
     <license>Apache 2.0</license>
@@ -23,6 +23,6 @@
             </feature>
         </config-file>
         <source-file src="src/android/MVisaQRParserPlugin.java" target-dir="src/com/ng/fidelitybank/mvisa/qrparser/" />
-        <source-file src="src/android/libs/QrCodeParser-1.1.1.jar" target-dir="libs" />
+        <source-file src="src/android/libs/MVisaQRParser-1.1.3" target-dir="libs" />
     </platform>
 </plugin>
