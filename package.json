@@ -1,6 +1,6 @@
 {
   "name": "cordova-mvisa-qrparser",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Cordova mVisa Plugin",
   "cordova": {
     "id": "cordova-mvisa-qrparser",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://realdammy@bitbucket.org/realdammy/mvisa-qrparser.git"
+    "url": "https://realdammy@bitbucket.org/realdammy/mvisa-qrparser.git"
   },
   "keywords": [
     "mvisa",
