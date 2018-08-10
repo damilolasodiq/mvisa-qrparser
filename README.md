@@ -1,6 +1,6 @@
 ### What is this repository for? ###
 
-Add the mVisa QRParse to your cordova project
+Add the mvisa QRParse to your cordova project
 
 ### Installation ###
 
